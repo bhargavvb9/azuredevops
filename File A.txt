@@ -1,3 +1,0 @@
-This is File A
-This is Bhargav Vakkapatla 
-Learning Git 
